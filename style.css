@@ -1,0 +1,126 @@
+#back{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("6-5000x3333.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+#choose{
+    text-align: center;
+    justify-content: center;
+}
+
+#doyou{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("alhan.dilshad.jfif");
+    width: 30%;
+    height: 73vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#backs{
+    height: 100vh;
+    width: 100%;
+}
+
+#first{
+    background-image: url("images.jfif");
+    width: 25%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#second{
+    background-image: url("images\ \(1\).jfif");
+    width: 25%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#third{
+    background-image: url("images\ \(2\).jfif");
+    width: 25%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#man{
+    width: 25%;
+    height: 72vh;
+    text-align: center;
+    justify-content: center;
+}
+
+#footer{
+    height: 35vh;
+    width: 100%;
+}
+
+#about-image{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("6-5000x3333.jpg");
+    width: 100%;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#about-image1{
+    background-image:  url("social-media-marketing.webp");
+    width: 40%;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#about-div{
+    text-align: center;
+    justify-content: center;
+    height: 60vh;
+    width: 35%;
+}
+
+#about-image2{
+    background-image:  url("email-marketing.webp");
+    width: 35%;
+    height: 65vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#contact-image{
+    background-image:  url("about-brandcurb.webp");
+    width: 30%;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#contact-div{
+    height: 80vh;
+    width: 80%;
+}
+
+#contact-div1{
+    height: 80vh;
+    width: 25%;
+}
+
+#contact-div2{
+    height: 80vh;
+    width: 60%;
+}
